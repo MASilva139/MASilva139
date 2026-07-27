@@ -199,31 +199,13 @@ Hello there! 👋 I'm Iskandar, a dedicated engineering student majoring in Comp
 ---------
 
 
-## 🧑‍💻 Tus Repositorios (más recientes primero)
+## 🧑‍💻 Repositorios Recientes
 
 
 <table align="center">
   <tr>
     <td align="center">
       <img src="./node_scripts/scripts/commits_by_repo.png" />
-    </td>
-  </tr>
-</table>
-
-
-
-
-
----------
-
-
-## 🤝 Repositorios de Colaboración (más recientes primero)
-
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="./node_scripts/scripts/collaboration_repos.png" />
     </td>
   </tr>
 </table>
