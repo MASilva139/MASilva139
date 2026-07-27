@@ -55,20 +55,11 @@ function updateReadme() {
   </tr>
 </table>\n\n\n`,
         "\n\n---------\n\n",
-        "## 🧑‍💻 Tus Repositorios (más recientes primero)\n\n",
+        "## 🧑‍💻 Repositorios Recientes\n\n",
         `<table align="center">
   <tr>
     <td align="center">
       <img src="./node_scripts/scripts/commits_by_repo.png" />
-    </td>
-  </tr>
-</table>\n\n\n`,
-        "\n\n---------\n\n",
-        "## 🤝 Repositorios de Colaboración (más recientes primero)\n\n",
-        `<table align="center">
-  <tr>
-    <td align="center">
-      <img src="./node_scripts/scripts/collaboration_repos.png" />
     </td>
   </tr>
 </table>\n\n\n`
